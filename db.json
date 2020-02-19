@@ -1,0 +1,22 @@
+{
+  "investments": [
+    {
+      "id": 51,
+      "type": "RENDA_VARIAVEL",
+      "value": 22,
+      "date": 1582167600000
+    },
+    {
+      "id": 82,
+      "type": "RENDA_VARIAVEL",
+      "value": 22,
+      "date": 1582167600000
+    },
+    {
+      "id": 19,
+      "type": "RENDA_FIXA",
+      "value": 22,
+      "date": 1582167600000
+    }
+  ]
+}
